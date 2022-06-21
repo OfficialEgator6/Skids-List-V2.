@@ -1,12 +1,17 @@
 [
     {
         "USERNAME": "array0x#4908",
-        "USERID": "881314811378556960",
-        "Main Account": true 
+        "USER_ID": "881314811378556960",
+        "MAIN_ACCOUNT": true 
     },
     {
         "USERNAME": "TimmieDevelops#2325",
-        "USERID": "844680229506514974",
-        "Main Account": true 
+        "USER_ID": "844680229506514974",
+        "MAIN_ACCOUNT": false // HE HAS OTHERS
+    },
+    {
+        "USERNAME": "zinx#9999",
+        "USER_ID": "887059055770730499"
+        "MAIN_ACCOUNT": true
     }
 ]
